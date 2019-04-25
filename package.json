@@ -9,9 +9,6 @@
 	"scripts": {
 		"pub": "np"
 	},
-	"bin": {
-		"jsdoc2md-plugin": "bin/cli.js"
-	},
 	"engines": {
 		"node": ">=9.8.0",
 		"npm": ">=6.0.0"
